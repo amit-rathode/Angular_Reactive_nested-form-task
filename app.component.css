@@ -1,0 +1,7 @@
+.body{
+    width: 60%;
+    height: 100vh;
+    margin-top: 50px;
+    margin: 2px solid black;
+    padding-block-start: 0%;
+}
